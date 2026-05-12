@@ -27,7 +27,7 @@ Applied K-Means Clustering for customer segmentation.
 ## Visualization
 Customer Segmentation using K-Means Clustering:
 
-![Visualization]()
+![Visualization](Segmentation.png)
 
 ## Business Insights
 - Identified high-value customers
